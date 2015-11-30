@@ -1,0 +1,18 @@
+.text{
+color:blue;
+font-size:50px;
+padding-bottom: 20px;}
+.title{
+color:red;
+font-size:20px;
+text-decoration:underline;
+text-align:center;}
+.img{
+width: 400px;
+position:center-left;
+left: 20px;}
+.circle{
+stroke: green; 
+fill: purple;
+stroke-width: 10;
+}
